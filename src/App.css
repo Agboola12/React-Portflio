@@ -1,0 +1,44 @@
+nav{
+  background-color: #000000;
+  color: white;
+}
+
+li a{
+  color: lightgrey;
+}
+
+header{
+  background-color: #080808;
+}
+
+img{
+  height: 200px;
+  width: 150px;
+  border-radius: 50px;
+}
+
+button{
+  border-radius: 20px;
+}
+
+#project{
+  margin-top: 5em;
+}
+
+hr{
+ background-color: lightgray;
+  width: 7%;
+  /* height: 5px; */
+}
+
+.card{
+  background-color: #202C36;
+  border-radius: 10px;
+  
+}
+
+
+#client{
+  background-color: #202C36;
+  color: white;
+}
