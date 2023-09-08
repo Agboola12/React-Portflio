@@ -106,7 +106,7 @@ function App() {
                       </div><br/>
                     </div>
 
-                      <div className='col-md-4 '>
+                      {/* <div className='col-md-4 '>
                     <div className='card   text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>Church Website</h5>
@@ -116,10 +116,7 @@ function App() {
                           <Link to="https://churchwork.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div>
-                    </div>  
-                </div>
-
-                <div className='row mt-4 '>
+                    </div>   */}
                     <div className='col-md-4 '>
                     <div className='card  text-light'>
                         <div className='card-body'>
@@ -131,6 +128,9 @@ function App() {
                         </div>
                     </div><br/>
                       </div>
+                </div>
+
+                <div className='row mt-4 '>
 
                       <div className='col-md-4 '>
                     <div className='card   text-light'>
