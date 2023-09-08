@@ -50,7 +50,7 @@ function App() {
                           <small>Angular, Bootstrap</small><br/>
                           <Link to="https://elijaybank.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
-                      </div>
+                      </div><br/>
                     </div>
 
                       <div className='col-md-4 '>
@@ -62,7 +62,7 @@ function App() {
                           <small>Vuejs, Bootstrap</small><br/>
                           <Link to="https://elijayloveapp.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
-                      </div>
+                      </div><br/>
                     </div>
 
                       <div className='col-md-4 '>
@@ -87,10 +87,10 @@ function App() {
                           <small className='card-text'>Inventory System for a Pharamacy, it makes the work to be easier for the attendance
                           and then customer can order whatever they need online too</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Html, Css, Bootstrap and Php </small><br/>
+                          <small>Html, Css, Bootstrap, Php and MySQL </small><br/>
                           <Link to="https://github.com/Agboola12/Inventory-System"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
-                      </div>
+                      </div><br/>
                     </div>
 
                       <div className='col-md-4 '>
@@ -99,11 +99,11 @@ function App() {
                           <h5 className='card-title '>School Management System</h5>
                           <small className='card-text'>School website and portal, the admin has can apply online </small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Vuejs, Bootstrap</small><br/>
+                          <small>Html, Css, Bootstrap, Php and MySQL </small><br/>
                           <Link to="https://github.com/Agboola12/School-Management"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
 
                         </div>
-                      </div>
+                      </div><br/>
                     </div>
 
                       <div className='col-md-4 '>
@@ -119,19 +119,18 @@ function App() {
                     </div>  
                 </div>
 
-                <div className='row mt-4  offset-2'>
+                <div className='row mt-4 '>
                     <div className='col-md-4 '>
                     <div className='card  text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>Food App</h5>
                           <small className='card-text'>The Food app helps people to order food online, it helps to save time and energy.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Reactjs and Nodejs </small>
-                          <small>The project is on the building process</small>
-                          
+                          <small>Reactjs and Nodejs </small><br/>
+                          <Link to="https://food-app-beta-umber.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
                         </div>
+                    </div><br/>
                       </div>
-                    </div>
 
                       <div className='col-md-4 '>
                     <div className='card   text-light'>
@@ -139,7 +138,7 @@ function App() {
                           <h5 className='card-title '>Net Artist</h5>
                           <small className='card-text'>Net Artist is a site, people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Vuejs and PhpMysqli</small> <br/>
+                          <small>Vuejs, Nodejs and MySQL</small> <br/>
                           <small>The project is on the building process</small>
                         </div>
                       </div>
@@ -148,7 +147,7 @@ function App() {
               </div>
           </div>
 
-          <div className='container-fluid text-center  mt-5' id='client'>
+          {/* <div className='container-fluid text-center  mt-5' id='client'>
             <div className='row p-5'>
               <div className='col-md-4 offset-2'>
                 <p> 6     <br/> Projects Completed </p>
@@ -157,15 +156,25 @@ function App() {
                <p>1 <br/> Happy Client</p> 
               </div>
             </div>   
+          </div> */}
+
+          <div className='container-fluid p-5 text-center  mt-5' id='client'>
+            <div className='d-flex '>
+              <div className='mx-auto'>
+
+              <p>6 <br/> Projects Completed</p>
+              <p>1 <br/> Happy Client</p>
+              </div>
+            </div>
           </div>
 
           <div className='container text-center  p-3 text-light' >
-            <div className='row p-5'>
-              <div className='col-md-4 offset-2'>
+            <div className='row p-5 ' >
+              <div className='col-md-4 mx-auto offset-1'>
   <Link to="https://www.linkedin.com/in/elijah-iyanuoluwa-agboola-6b2631203" className="nav-link text-light  fs-7"><i className="fa fa-linkedin text-success mr-1" aria-hidden="true"></i>LinkedIn</Link>
 
                 </div>
-                <div className='col-md-4'>
+                <div className='col-md-4 mx-auto'>
               <Link to="https://github.com/Agboola12" className="nav-link text-light fs-7"><i className="fa fa-github text-success mr-1" aria-hidden="true"></i>Github</Link>
                 
               </div>
