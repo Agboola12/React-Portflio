@@ -128,6 +128,7 @@ function App() {
                           <small><b>Technologies:</b></small><br/>
                           <small>Vuejs, Nodejs and MySQL</small> <br/>
                           <small>The project is on the building process</small>
+                          <Link to="https://github.com/Agboola12/Artist-App-Vue-Frontend"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
                         </div>
                       </div>
                     </div>  
