@@ -106,17 +106,6 @@ function App() {
                       </div><br/>
                     </div>
 
-                      {/* <div className='col-md-4 '>
-                    <div className='card   text-light'>
-                        <div className='card-body'>
-                          <h5 className='card-title '>Church Website</h5>
-                          <small className='card-text'>Rccg Church website, for people to know more about the Church</small><br/><br/>
-                          <small><b>Technologies:</b></small><br/>
-                          <small>Angular and Bootstrap</small><br/>
-                          <Link to="https://churchwork.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
-                        </div>
-                      </div>
-                    </div>   */}
                     <div className='col-md-4 '>
                     <div className='card  text-light'>
                         <div className='card-body'>
