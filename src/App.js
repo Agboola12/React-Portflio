@@ -34,8 +34,10 @@ function App() {
                 <h2>I'm Agboola Elijah </h2>
                 <p>A Full Stack Developer who specializes in building fast, beautiful and responsive websites and web applications.</p>
                 <p>Got Anything? Contact me</p>
+               
+
                 <a href='#project' >  
-                <button className="btn">  Diagonal Swipe</button></a>
+                <button className="btn">  My Projects</button></a>
 
                  {/* <button class="btn btn-outline-success mt-4 mb-2" > My Projects </button> */}
           </div>
