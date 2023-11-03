@@ -53,7 +53,7 @@ function App() {
                           <small className='card-text'>Bank's User Website and the Admin ends</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Angular, Bootstrap</small><br/>
-                          <Link to="https://elijay-bank-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://jahnus-bank-app.vercel.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
                     </div>
