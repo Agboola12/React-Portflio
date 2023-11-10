@@ -2,7 +2,7 @@ import React from 'react'
 // import { Link } from 'react-router-dom';
 import './App.css';
 import { Link } from 'react-router-dom';
-import agbo from './aaa.png'
+import agbo from './agbo.png'
 
 function App() {
   return (
