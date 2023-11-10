@@ -30,7 +30,7 @@ function App() {
       
       <header className=''>
           <div className='container text-center text-light pt-5'>
-                <img src={agbo}  alt="agboimage"/>
+                <img src={agbo}  alt="agboimage" />
                 <h2>I'm Agboola Elijah </h2>
                 <p>A Full Stack Developer who specializes in building fast, beautiful and responsive websites and web applications.</p>
                 <p>Got Anything? Contact me</p>
