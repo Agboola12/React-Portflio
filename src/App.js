@@ -142,16 +142,6 @@ function App() {
               </div>
           </div>
 
-          {/* <div className='container-fluid text-center  mt-5' id='client'>
-            <div className='row p-5'>
-              <div className='col-md-4 offset-2'>
-                <p> 6     <br/> Projects Completed </p>
-                </div>
-                <div className='col-md-4'>
-               <p>1 <br/> Happy Client</p> 
-              </div>
-            </div>   
-          </div> */}
 
           <div className='container-fluid p-5 text-center  mt-5' id='client'>
             <div className='d-flex '>
