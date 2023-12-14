@@ -7,18 +7,7 @@ import agbo from './agbo.png'
 function App() {
   return (
     <div>
-      {/* <nav className="navbar navbar-expand-lg  ">
-        
-          <ul className="navbar-nav mx-auto" >
-            <li className="nav-item">
-              
-            </li>
-            <li className="nav-item">
-            </li>
-            <li className="nav-item">
-            </li>
-            </ul>
-          </nav> */}
+
 
           <div className='d-flex text-center' id='nav'>
           <Link to="https://www.linkedin.com/in/elijah-iyanuoluwa-agboola-6b2631203" className="nav-link  text-light  fs-7"><i className="fa fa-linkedin text-success mr-1" aria-hidden="true"></i>LinkedIn</Link>
@@ -127,7 +116,7 @@ function App() {
                     <div className='card   text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>Prime</h5>
-                          <small className='card-text'>Prime is a site, people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
+                          <small className='card-text'>Prime is a music site , people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Vuejs, Nodejs and MySQL</small> <br/>
                           <small>The project is on the building process</small><br/>
