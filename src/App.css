@@ -1,7 +1,8 @@
-nav{
+#nav{
   background-color: #000000;
   color: white;
-}
+  justify-content: center
+};
 
 li a{
   color: lightgrey;
