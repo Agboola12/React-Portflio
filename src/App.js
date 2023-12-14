@@ -126,7 +126,7 @@ function App() {
                           <small className='card-text'>Prime is a site, people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Vuejs, Nodejs and MySQL</small> <br/>
-                          <small>The project is on the building process</small>
+                          <small>The project is on the building process</small><br/>
                           <Link to="https://elijay-artist-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
                         </div>
                       </div>
