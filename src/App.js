@@ -128,12 +128,12 @@ function App() {
                       <div className='col-md-4 '>
                     <div className='card   text-light'>
                         <div className='card-body'>
-                          <h5 className='card-title '>Net Artist</h5>
-                          <small className='card-text'>Net Artist is a site, people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
+                          <h5 className='card-title '>Prime</h5>
+                          <small className='card-text'>Prime is a site, people can check for any artist or band dance to perform on their occassions.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Vuejs, Nodejs and MySQL</small> <br/>
                           <small>The project is on the building process</small>
-                          <Link to="https://github.com/Agboola12/Artist-App-Vue-Frontend"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
+                          <Link to="https://elijay-artist-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
                         </div>
                       </div>
                     </div>  
