@@ -39,7 +39,6 @@ function App() {
                 <a href='#project' >  
                 <button className="btn">  My Projects</button></a>
 
-                 {/* <button class="btn btn-outline-success mt-4 mb-2" > My Projects </button> */}
           </div>
           <div className='container-fluid text-light ' id='project'>
               <h2 className='text-center'>Projects</h2>
