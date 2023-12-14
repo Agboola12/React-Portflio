@@ -9,10 +9,6 @@ function App() {
     <div>
       <nav className="navbar navbar-expand-lg  ">
         
-        {/* <button className="navbar-toggler bg-light" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon bg-light"></span>
-        </button> */}
-        {/* <div className="collapse navbar-collapse" id="navbarNav"> */}
           <ul className="navbar-nav mx-auto" >
             <li className="nav-item">
               
@@ -25,7 +21,6 @@ function App() {
               <Link to="https://wa.link/f4r799" className="nav-link text-light  fs-7"><i className="fa fa-whatsapp text-success mr-1" aria-hidden="true"></i>Whatsapp</Link>
             </li>
           </ul>
-        {/* </div> */}
       </nav>
       
       <header className=''>
