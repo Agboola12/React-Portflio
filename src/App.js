@@ -33,7 +33,7 @@ function App() {
               <hr />
               <div className='container' >
                 <div className='row '>
-                    <div className='col-md-4 '>
+                    {/* <div className='col-md-4 '>
                     <div className='card    text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>Jahnus Bank Management</h5>
@@ -43,7 +43,7 @@ function App() {
                           <Link to="https://elijay-bank.netlify.app/home"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
-                    </div>
+                    </div> */}
 
                       <div className='col-md-4 '>
                     <div className='card    text-light'>
