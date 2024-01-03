@@ -36,11 +36,11 @@ function App() {
                     <div className='col-md-4 '>
                     <div className='card    text-light'>
                         <div className='card-body'>
-                          <h5 className='card-title '>Jahnus Bank Management</h5>
-                          <small className='card-text'>Bank's User Website and the Admin ends</small><br/><br/>
+                          <h5 className='card-title '>Elijay Anonymous Message</h5>
+                          <small className='card-text'>Anonymous Message is made  by someone whose name is not known or not made public</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/>
-                          <Link to="https://elijay-bank.netlify.app/home"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
                     </div>
