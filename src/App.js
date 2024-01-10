@@ -25,10 +25,10 @@ function App() {
                
               <div className='mt-5'>
                 <a href='#project' >  
-                <button className="btn">  My Projects</button>
+                <button className="btn mr-2">  My Projects</button>
                 </a>
                 <a href='#project' >  
-                <button className="btn">  Curriculum Vitea</button>
+                <button className="btn ml-3">  Curriculum Vitea</button>
                 </a>
 
               </div>
