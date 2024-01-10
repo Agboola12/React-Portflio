@@ -40,7 +40,7 @@ function App() {
                           <h5 className='card-title '>Jahnus Bank Management</h5>
                           <small className='card-text'>Bank's User Website and the Admin ends</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Angular, Bootstrap</small><br/>
+                          <small>Html, Bootstrap</small><br/>
                           <Link to="https://elijay-bank.netlify.app/home"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
