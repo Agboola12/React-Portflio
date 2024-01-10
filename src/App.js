@@ -23,9 +23,15 @@ function App() {
                 <p>A Full Stack Developer who specializes in building fast, beautiful and responsive websites and web applications.</p>
                 <p>Got Anything? Contact me</p>
                
-
+              <div>
                 <a href='#project' >  
-                <button className="btn">  My Projects</button></a>
+                <button className="btn">  My Projects</button>
+                </a>
+                <a href='#project' >  
+                <button className="btn">  Curriculum Vitea</button>
+                </a>
+
+              </div>
 
           </div>
           <div className='container-fluid text-light ' id='project'>
