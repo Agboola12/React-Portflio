@@ -27,7 +27,7 @@ function App() {
                 <a href='#project' >  
                 <button className="btn mr-2">  My Projects</button>
                 </a>
-                <a href='#project' >  
+                <a href='https://docs.google.com/document/d/1z3nDj50YMeYiE_h_Ae9U7RhSrK8jD2m6LJZiFdPP8FY/edit?usp=sharing' >  
                 <button className="btn ml-3">  Curriculum Vitea</button>
                 </a>
 
