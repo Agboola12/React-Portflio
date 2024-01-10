@@ -41,7 +41,7 @@ function App() {
                           <small className='card-text'>A Bank's landing page with the User end and the Admin ends</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Html, Css and Bootstrap</small><br/>
-                          <Link to="https://elijay-bank.netlify.app/home"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://jahnus-bank.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
                     </div>
