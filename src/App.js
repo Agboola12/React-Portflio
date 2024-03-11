@@ -157,7 +157,7 @@ function App() {
               <div className='mx-auto'>
 
               <p>6 <br/> Projects Completed</p>
-              <p>1 <br/> Happy Client</p>
+              <p>3 <br/> Happy Client</p>
               </div>
             </div>
           </div>
