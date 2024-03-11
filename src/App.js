@@ -150,7 +150,7 @@ function App() {
                     <div className='col-md-4 '>
                     <div className='card    text-light'>
                         <div className='card-body'>
-                          <h5 className='card-title '></h5>
+                          <h5 className='card-title '>School Learning System</h5>
                           <small className='card-text'>Anonymous Message is made by someone whose name is not known or not made public</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/>
