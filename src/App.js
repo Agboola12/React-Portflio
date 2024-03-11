@@ -169,7 +169,7 @@ function App() {
             <div className='d-flex '>
               <div className='mx-auto'>
 
-              <p>6 <br/> Projects Completed</p>
+              <p>9 <br/> Projects Completed</p>
               <p>3 <br/> Happy Client</p>
               </div>
             </div>
