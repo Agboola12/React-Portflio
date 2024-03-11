@@ -155,7 +155,7 @@ function App() {
                           while students can go there to check the resources they need for their class</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
-                          <Link to"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://school-learning-project.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
                     </div>
