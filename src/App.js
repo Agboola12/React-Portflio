@@ -151,7 +151,7 @@ function App() {
                     <div className='card    text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>School Learning System</h5>
-                          <small className='card-text'>School Learning System is a made </small><br/><br/>
+                          <small className='card-text'>School Learning System is a made for School, Teachers can signup to the website, while students can go there to check the resources they need for their class</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/>
                           <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
