@@ -162,7 +162,7 @@ function App() {
                 </div>
                 
               </div>
-                <Link className='text-light ml-auto'>View All</Link>
+                <Link className='text-light text-right ml-auto'>View All</Link>
           </div>
 
 
