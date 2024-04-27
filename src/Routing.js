@@ -1,13 +1,15 @@
 import React from "react";
 import { Route, Routes } from "react-router";
+import App from "./App";
+import AllProject from "./AllProject";
 
 
 const Routing = () => {
   return (
         <>
             <Routes>
-                    <Route path="/" element={<Landing/>}/>
-                    <Route path="/loginsuccess" element={<LoginSucess/>}/>
+                    <Route path="/" element={<App/>}/>
+                    <Route path="/loginsuccess" element={<AllProject/>}/>
             </Routes>
     </>
   );
