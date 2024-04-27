@@ -9,7 +9,7 @@ const Routing = () => {
         <>
             <Routes>
                     <Route path="/" element={<App/>}/>
-                    <Route path="/loginsuccess" element={<AllProject/>}/>
+                    <Route path="/allProject" element={<AllProject/>}/>
             </Routes>
     </>
   );
