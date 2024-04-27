@@ -144,7 +144,7 @@ const AllProject = () => {
                           <h5 className='card-title '>Church Management System</h5>
                           <small className='card-text'>Love Calculator that enables the user to check the percentage of their love with their crush </small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Vuejs, Bootstrap</small><br/>
+                          <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
                           <Link to="https://elijayloveapp.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                         </div>
                       </div><br/>
@@ -154,9 +154,9 @@ const AllProject = () => {
                     <div className='card   text-light'>
                         <div className='card-body'>
                           <h5 className='card-title '>Abaf Company</h5>
-                          <small className='card-text'>Users can play game to entertain themselves</small><br/><br/>
+                          <small className='card-text'>Just a simple user's friendly interface for the Company</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Vuejs, Bootstrap</small><br/>
+                          <small>Html, Css and Bootstrap</small><br/>
                           <Link to="https://elijaytictaktoe.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                           </div>
                       </div>
