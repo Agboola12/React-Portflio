@@ -120,7 +120,7 @@ function App() {
                       </div>
                 </div>
                 
-                <Link to="/allProject" className='text-light text-right mr-auto '><p>View All</p></Link>
+                <Link to="/allProject" className='text-light text-right mr-auto '><p>View All Project</p></Link>
               </div>
           </div>
 
@@ -129,8 +129,8 @@ function App() {
             <div className='d-flex '>
               <div className='mx-auto'>
 
-              <p>9 <br/> Projects Completed</p>
-              <p>3 <br/> Happy Client</p>
+              <p>12 <br/> Projects Completed</p>
+              <p>5 <br/> Happy Client</p>
               </div>
             </div>
           </div>
