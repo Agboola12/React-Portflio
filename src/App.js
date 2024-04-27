@@ -161,8 +161,8 @@ function App() {
                     </div>
                 </div>
                 
+                <Link to="/allProject" className='text-light text-right mr-auto '><p>View All</p></Link>
               </div>
-                <Link className='text-light text-right ml-auto'>View All</Link>
           </div>
 
 
