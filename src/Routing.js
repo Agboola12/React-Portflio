@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react";
+import { Route, Routes } from "react-router";
+
 
 const Routing = () => {
   return (
-    <div>
-        
-    </div>
-  )
-}
+        <>
+            <Routes>
+                    <Route path="/" element={<Landing/>}/>
+                    <Route path="/loginsuccess" element={<LoginSucess/>}/>
+            </Routes>
+    </>
+  );
+};
 
-export default Routing
+export default Routing;
