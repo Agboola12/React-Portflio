@@ -157,7 +157,7 @@ const AllProject = () => {
                                         <small className='card-text'>Just a simple user's friendly interface for the Company</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
                                         <small>Html, Css and Bootstrap</small><br />
-                                        <Link to="https://abuaf-company.vercel.app/landpage/contact.html" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <Link to="https://abuaf-company.vercel.app/index.html" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                                     </div>
                                 </div>
                             </div>
@@ -165,36 +165,8 @@ const AllProject = () => {
 
                     </div>
                 </div>
-
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            {/* <div className='container text-center  p-3 text-light bg-dark' >
+                <hr className='w-100'/>
+            <div className='container text-center  p-3 text-light ' >
                 <div className='row p-5 ' >
                     <div className='col-md-4 mx-auto offset-1'>
                         <Link to="https://www.linkedin.com/in/elijah-iyanuoluwa-agboola-6b2631203" className="nav-link text-light  fs-7"><i className="fa fa-linkedin text-success mr-1" aria-hidden="true"></i>LinkedIn</Link>
@@ -202,9 +174,14 @@ const AllProject = () => {
                     <div className='col-md-4 mx-auto'>
                         <Link to="https://github.com/Agboola12" className="nav-link text-light fs-7"><i className="fa fa-github text-success mr-1" aria-hidden="true"></i>Github</Link>
                     </div>
+                    <div className='col-md-4 mx-auto'>
+                <Link to="https://wa.link/f4r799" className="nav-link text-light  fs-7"><i className="fa fa-whatsapp text-success mr-1" aria-hidden="true"></i>Whatsapp</Link>
+                    </div>
                 </div>
                 <small className='text-center'>© 2023 BlackMan, All Rights Reserved</small>
-            </div> */}
+            </div>
+            </div>
+
         </div>
     )
 }

@@ -59,7 +59,7 @@ function App() {
                           <small className='card-text'>Just a simple user's friendly interface for the Company</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Html, Css and Bootstrap</small><br/>
-                          <Link to="https://abuaf-company.vercel.app/landpage/contact.html"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://abuaf-company.verce"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
                           </div>
                       </div>
                     </div>  
