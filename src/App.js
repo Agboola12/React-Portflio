@@ -161,6 +161,7 @@ function App() {
                     </div>
                 </div>
                 
+                <Link className='text-light bg-danger'>View All</Link>
               </div>
           </div>
 
