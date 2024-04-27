@@ -136,6 +136,35 @@ const AllProject = () => {
                       </div><br/>
                     </div>
                 </div>
+
+                <div className='row '>
+                      <div className='col-md-4 '>
+                    <div className='card text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Church Management System</h5>
+                          <small className='card-text'>Love Calculator that enables the user to check the percentage of their love with their crush </small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Vuejs, Bootstrap</small><br/>
+                          <Link to="https://elijayloveapp.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                        </div>
+                      </div><br/>
+                    </div>
+
+                      <div className='col-md-4 '>
+                    <div className='card   text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Abaf Company</h5>
+                          <small className='card-text'>Users can play game to entertain themselves</small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Vuejs, Bootstrap</small><br/>
+                          <Link to="https://elijaytictaktoe.netlify.app"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          </div>
+                      </div>
+                    </div>  
+
+                    
+                    
+                </div>
                 
               </div>
           </div>
