@@ -38,6 +38,46 @@ function App() {
               <h2 className='text-center'>Projects</h2>
               <hr />
               <div className='container' >
+
+              <div className='row '>
+                      <div className='col-md-4 '>
+                    <div className='card text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Church Management System</h5>
+                          <small className='card-text'>The Management System is made for church, check out the website for the details  </small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
+                          <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                        </div>
+                      </div><br/>
+                    </div>
+
+                      <div className='col-md-4 '>
+                    <div className='card   text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Abaf Company</h5>
+                          <small className='card-text'>Just a simple user's friendly interface for the Company</small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Html, Css and Bootstrap</small><br/>
+                          <Link to="https://abuaf-company.vercel.app/landpage/contact.html"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          </div>
+                      </div>
+                    </div>  
+
+                    <div className='col-md-4 '>
+                    <div className='card    text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Elijay Anonymous Message</h5>
+                          <small className='card-text'>Anonymous Message is made by someone whose name is not known or not made public</small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/>
+                          <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                        </div>
+                      </div><br/>
+                    </div>
+                </div>
+
+
                 <div className='row mt-4 '>
                       <div className='col-md-4 '>
                     <div className='card   text-light'>
@@ -52,17 +92,7 @@ function App() {
                       </div>
                     </div>  <br/>
 
-                    <div className='col-md-4 '>
-                    <div className='card    text-light'>
-                        <div className='card-body'>
-                          <h5 className='card-title '>Elijay Anonymous Message</h5>
-                          <small className='card-text'>Anonymous Message is made by someone whose name is not known or not made public</small><br/><br/>
-                          <small><b>Technologies:</b></small><br/>
-                          <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/>
-                          <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
-                        </div>
-                      </div><br/>
-                    </div>
+                    
                    
                     <div className='col-md-4 '>
                     <div className='card    text-light'>
@@ -76,6 +106,18 @@ function App() {
                         </div>
                       </div><br/>
                     </div>
+
+                    <div className='col-md-4 '>
+                    <div className='card  text-light'>
+                        <div className='card-body'>
+                          <h5 className='card-title '>Food App</h5>
+                          <small className='card-text'>The Food app helps people to order food online, it helps to save time and energy.</small><br/><br/>
+                          <small><b>Technologies:</b></small><br/>
+                          <small>Reactjs and Nodejs </small><br/>
+                          <Link to="https://jahnus-food-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
+                        </div>
+                    </div><br/>
+                      </div>
                 </div>
                 
                 <Link to="/allProject" className='text-light text-right mr-auto '><p>View All</p></Link>
