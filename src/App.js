@@ -43,8 +43,8 @@ function App() {
                           <h5 className='card-title' >Church Management System</h5>
                           <small className='card-text'>The Management System is made for church, check out the website for the details  </small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
-                        <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>Click here to visit the site</Link>
+                          <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/><br/>
+                        <Link to="https://react-rccg.vercel.app/"  className='text-light'> <i className="fa fa-globe mr-2" aria-hidden="true"></i>click here to visit the site</Link>
                         
                         </div>
                       </div><br/>
@@ -57,7 +57,7 @@ function App() {
                           <small className='card-text'>Just a simple user's friendly interface for the Company</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Html, Css and Bootstrap</small><br/>
-                          <Link to="https://abuaf-company.vercel.app/index.html"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://abuaf-company.vercel.app/index.html"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                           </div>
                       </div>
                     </div>  
