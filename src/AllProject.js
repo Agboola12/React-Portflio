@@ -25,8 +25,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>Love Calculator App</h5>
                                         <small className='card-text'>Love Calculator that enables the user to check the percentage of their love with their crush </small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Vuejs, Bootstrap</small><br />
-                                        <Link to="https://elijayloveapp.netlify.app" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Vuejs, Bootstrap</small><br /><br/>
+                                        <Link to="https://elijayloveapp.netlify.app" className='text-light mr2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
@@ -37,8 +37,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>TicTakToc</h5>
                                         <small className='card-text'>Users can play game to entertain themselves</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Vuejs, Bootstrap</small><br />
-                                        <Link to="https://elijaytictaktoe.netlify.app" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Vuejs, Bootstrap</small><br/><br/>
+                                        <Link to="https://elijaytictaktoe.netlify.app" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div>
                             </div>
@@ -49,8 +49,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>Jahnus Bank Management</h5>
                                         <small className='card-text'>A Bank's landing page with the User end and the Admin ends</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Html, Css and Bootstrap</small><br />
-                                        <Link to="https://jahnus-bank.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Html, Css and Bootstrap</small><br /><br/>
+                                        <Link to="https://jahnus-bank.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
@@ -65,8 +65,8 @@ const AllProject = () => {
                                         <small className='card-text'>Inventory System for a Pharamacy, it makes the work to be easier for the attendance
                                             and then customer can order whatever they need online too</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Html, Css, Bootstrap, Php and MySQL </small><br />
-                                        <Link to="https://github.com/Agboola12/Inventory-System" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Html, Css, Bootstrap, Php and MySQL </small><br /><br/>
+                                        <Link to="https://github.com/Agboola12/Inventory-System" className='text-light mr-2'><i class="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
@@ -77,8 +77,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>School Management System</h5>
                                         <small className='card-text'>School website and portal, the admin has can apply online </small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Html, Css, Bootstrap, Php and MySQL </small><br />
-                                        <Link to="https://github.com/Agboola12/School-Management" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Html, Css, Bootstrap, Php and MySQL </small><br/><br/>
+                                        <Link to="https://github.com/Agboola12/School-Management" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
 
                                     </div>
                                 </div><br />
@@ -91,7 +91,7 @@ const AllProject = () => {
                                         <small className='card-text'>The Food app helps people to order food online, it helps to save time and energy.</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
                                         <small>Reactjs and Nodejs </small><br />
-                                        <Link to="https://jahnus-food-app.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <Link to="https://jahnus-food-app.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
