@@ -37,18 +37,19 @@ function App() {
               <div className='container' >
 
               <div className='row '>
-                      <div className='col-md-4 '>
-                        {/* <Link to="https://react-rccg.vercel.app/" s> */}
-                    <div className='card text-light'>
-                        <div className='card-body'>
-                          <h5 className='card-title '>Church Management System</h5>
+                      <div className='col-md-4' style={{cursor:'pointer'}}>
+                        <Link to="https://react-rccg.vercel.app/" >
+                    <div className='card text-light' >
+                        <div className='card-body' >
+                          <h5 className='card-title' >Church Management System</h5>
                           <small className='card-text'>The Management System is made for church, check out the website for the details  </small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
-                          <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                       {/* <p> Click  <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link> */}
+                        {/* </p> */}
                         </div>
                       </div><br/>
-                    {/* </Link> */}
+                    </Link>
                     </div>
 
                       <div className='col-md-4 '>
