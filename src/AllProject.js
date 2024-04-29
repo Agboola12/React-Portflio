@@ -105,8 +105,8 @@ const AllProject = () => {
                                         <small className='card-text'>Prime is a music site , people can check for any artist or band dance to perform on their occassions.</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
                                         <small>Vuejs, Nodejs and MySQL</small> <br />
-                                        <small>The project is on the building process</small><br />
-                                        <Link to="https://elijay-artist-app.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>The project is on the building process</small><br /><br/>
+                                        <Link to="https://elijay-artist-app.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div>
                             </div>  <br />
@@ -117,8 +117,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>Elijay Anonymous Message</h5>
                                         <small className='card-text'>Anonymous Message is made by someone whose name is not known or not made public</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br />
-                                        <Link to="https://elijay-anonymous-message.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br /><br/>
+                                        <Link to="https://elijay-anonymous-message.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
@@ -130,8 +130,8 @@ const AllProject = () => {
                                         <small className='card-text'>School Learning System is a made for School, Teachers can signup to the website,
                                             while students can go there to check the resources they need for their class</small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br />
-                                        <Link to="https://school-learning-project.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/><br/>
+                                        <Link to="https://school-learning-project.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
@@ -144,8 +144,8 @@ const AllProject = () => {
                                         <h5 className='card-title '>Church Management System</h5>
                                         <small className='card-text'>The Management System is made for church, check out the website for the details  </small><br /><br />
                                         <small><b>Technologies:</b></small><br />
-                                        <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br />
-                                        <Link to="https://react-rccg.vercel.app/" className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                                        <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/><br/>
+                                        <Link to="https://react-rccg.vercel.app/" className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                                     </div>
                                 </div><br />
                             </div>
