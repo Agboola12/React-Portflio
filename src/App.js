@@ -57,7 +57,7 @@ function App() {
                           <small className='card-text'>Just a simple user's friendly interface for the Company</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Html, Css and Bootstrap</small><br/><br/>
-                          <Link to="https://abuaf-company.vercel.app/index.html"  className='text-light mr-2'><i class="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
+                          <Link to="https://abuaf-company.vercel.app/index.html"  className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                           </div>
                       </div>
                     </div>  
@@ -69,7 +69,7 @@ function App() {
                           <small className='card-text'>Anonymous Message is made by someone whose name is not known or not made public</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Tailwind, Nodejs and MongoDb</small><br/><br/>
-                          <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light mr-2'><i class="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
+                          <Link to="https://elijay-anonymous-message.vercel.app/"  className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                         </div>
                       </div><br/>
                     </div>
@@ -85,7 +85,7 @@ function App() {
                           <small><b>Technologies:</b></small><br/>
                           <small>Vuejs, Nodejs and MySQL</small> <br/>
                           <small>The project is on the building process</small><br/><br/>
-                          <Link to="https://elijay-artist-app.vercel.app/"  className='text-light mr-2'><i class="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>                          
+                          <Link to="https://elijay-artist-app.vercel.app/"  className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>                          
                         </div>
                       </div>
                     </div>  <br/>
@@ -100,7 +100,7 @@ function App() {
                           while students can go there to check the resources they need for their class</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/><br/>
-                          <Link to="https://school-learning-project.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
+                          <Link to="https://school-learning-project.vercel.app/"  className='text-light mr-2'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>
                         </div>
                       </div><br/>
                     </div>
@@ -111,7 +111,7 @@ function App() {
                           <h5 className='card-title '>Food App</h5>
                           <small className='card-text'>The Food app helps people to order food online, it helps to save time and energy.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
-                          <small>Reactjs and Nodejs </small><br/>
+                          <small>Reactjs and Nodejs </small><br/><br/>
                           <Link to="https://jahnus-food-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
                         </div>
                     </div><br/>
