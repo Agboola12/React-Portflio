@@ -112,7 +112,7 @@ function App() {
                           <small className='card-text'>The Food app helps people to order food online, it helps to save time and energy.</small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs and Nodejs </small><br/><br/>
-                          <Link to="https://jahnus-food-app.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>                          
+                          <Link to="https://jahnus-food-app.vercel.app/"  className='text-light'><i className="fa fa-globe" aria-hidden="true"></i>click here to visit the site</Link>                          
                         </div>
                     </div><br/>
                       </div>
