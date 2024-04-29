@@ -44,8 +44,8 @@ function App() {
                           <small className='card-text'>The Management System is made for church, check out the website for the details  </small><br/><br/>
                           <small><b>Technologies:</b></small><br/>
                           <small>Reactjs, Bootstrap, Nodejs and MongoDb</small><br/>
-                        <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>visit</Link>
-                        </small>
+                        <Link to="https://react-rccg.vercel.app/"  className='text-light'><i class="fa fa-globe" aria-hidden="true"></i>Click here to visit the site</Link>
+                        
                         </div>
                       </div><br/>
                     </div>
